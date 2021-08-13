@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092310297538",
+    "project_id": "quizadmin-a0399",
+    "storage_bucket": "quizadmin-a0399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092310297538:android:045ac43d6bf86383de445b",
+        "android_client_info": {
+          "package_name": "com.mohit.quizadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092310297538-ho3o4i3stfifjr3vd8u0sjro1h6nmu2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaV1SxVnWZiixxb9qRMN6gt9prLHTxDVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092310297538-ho3o4i3stfifjr3vd8u0sjro1h6nmu2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
